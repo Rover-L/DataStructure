@@ -97,7 +97,7 @@ int main_sort()
         cout<<"内存分配失败"<<endl;
         return 0;
     }
-    cout<<"上传成功"<<endl;
+    cout<<"上传成功了吗"<<endl;
     DestoryList(L);
     return 0;
 }
