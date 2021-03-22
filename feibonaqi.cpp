@@ -36,7 +36,7 @@ int feibonaqiXunhuan(int n){
         return 0;
     }
 }
-int main(){
+int main3(){
     int m = 7;
     cout<<"递归结果："<<feibonaqiDigui(7)<<endl;
     cout<<"循环算法结果："<<feibonaqiXunhuan(7);

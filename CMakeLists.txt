@@ -3,4 +3,4 @@ project(DataStructure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructure main_sort.cpp LinearList/SequentialList.cpp LinearList/SequentialList.h feibonaqi.cpp)
+add_executable(DataStructure main_sort.cpp LinearList/LinkList.cpp main.cpp feibonaqi.cpp)

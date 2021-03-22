@@ -37,9 +37,9 @@ bool ListEmpty(Sqlist L){      //判断表是否为空，为空返回ture，不�
     else return false;
 }
 
-int ListLength(Sqlist L)(){     //返回表长
-    return (int)L.lenth;
-}
+//int ListLength(Sqlist L)(){     //返回表长
+//    return (int)L.lenth;
+//}
 
 void GetElem(Sqlist L,int x,int &e){
     //函数用e返回L中第x个元素
@@ -52,9 +52,9 @@ void GetElem(Sqlist L,int x,int &e){
     }
 }
 
-bool LocateElem(){};
-void PriorElem(){};
-void NextElem(){};
+//bool LocateElem(){};
+//void PriorElem(){};
+//void NextElem(){};
 
 void ListInsert(Sqlist &L,int i,int e){
     //在L表中第i个位置插入e，L表长加1；
