@@ -114,7 +114,7 @@ void ListDelete(Sqlist &L,ElemType e){
     }
 }
 
-int main1()
+int main()
 {
     int size = 0;
     int c;
