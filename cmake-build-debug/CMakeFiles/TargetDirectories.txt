@@ -1,3 +1,0 @@
-C:/Users/TU/CLionProjects/DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir
-C:/Users/TU/CLionProjects/DataStructure/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/TU/CLionProjects/DataStructure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
