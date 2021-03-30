@@ -74,3 +74,4 @@ bool Pop(SqStack &S,Elemtype &e){
 }
 
 
+
