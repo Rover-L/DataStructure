@@ -5,6 +5,7 @@
 #include "Queue.h"
 
 
+
 void InitQueue(LinkQueue &Q){
     //构造一个空队列
     Q.front = (QueuePtr)malloc(sizeof(Queue));
